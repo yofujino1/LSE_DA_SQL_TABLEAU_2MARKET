@@ -11,7 +11,7 @@ SQL, TABLEAU, EXCEL
 ## SKILL & RESOURCES
 Excel, PostgreSQL ,Tableau, Preliminary EDA, Interactive Visualisations, Storytelling
 ## MATERIALS
-Tableau Dashboard
-PPT
-Technical Report
-Metadata
+-Tableau Dashboard
+-PPT
+-Technical Report
+-Metadata
