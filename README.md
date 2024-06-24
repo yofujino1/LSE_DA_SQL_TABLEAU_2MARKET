@@ -1,4 +1,5 @@
-# LSE DATA ANALYTICS - INDIVIDUAL ASSIGNMENT 1
+# LSE DATA ANALYTICS - 2MARKET - INDIVIDUAL ASSIGNMENT 1
+
 ## Passed with Distinction
 At 2Market, a fictional global supermarket, I conducted an exploratory analysis of customer purchase behavior using advanced Excel functions, PostgreSQL queries, and Tableau. This comprehensive analysis involved:
 - Preliminary exploratory data analysis (EDA) in Excel
